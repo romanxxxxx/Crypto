@@ -1,4 +1,5 @@
 ИСПОЛЬЗОВАНИЕ
+CryptoCLI.exe -h помощь
 Шифрование
 
 CryptoCLI.exe encrypt имя_файла.расширение имя_файла.bin -p "парольная фраза" -v(режим verbose)
